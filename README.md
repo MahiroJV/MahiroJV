@@ -1,125 +1,46 @@
-# 📋 Task Tracker CLI
+# Hey, I'm MahiroJV 👋
 
-> Built from scratch in Java — no frameworks, no shortcuts, just raw code and good vibes.
-
----
-
-## 👋 About
-
-Hey! I'm **MahiroJV** — I mess around with Linux, play with shell scripts, and build projects from [roadmap.sh](https://roadmap.sh) just for the fun of it.
-
-This is my take on the [Task Tracker](https://roadmap.sh/projects/task-tracker) project from roadmap.sh.
-No external libraries. No fancy frameworks. Just Java, a JSON file, and a terminal. 🖥️
+> Hobby developer who tinkers with Linux, breaks things on purpose, and occasionally fixes them.
 
 ---
 
-## ⚡ What it does
+## 🧪 What I'm about
 
-A dead simple CLI to manage your tasks right from the terminal.
+I'm not here to build the next startup — I'm here to have fun, learn stuff, and see how deep the rabbit hole goes.
 
-```bash
-taskcli add "Fix that bug"
-taskcli list
-taskcli mark-done 1
-taskcli list done
-```
-
-That's it. No mouse. No GUI. Pure terminal energy. 😎
+- 🐧 **Linux** is my playground
+- ☕ **Learning Java** — building real projects, not just tutorials
+- 🛠️ **Shell scripting** — if I can automate it, I will
+- 🚀 **Curious about DevOps & CI/CD** — pipelines, containers, the whole thing
+- 🗺️ Working through projects on **[roadmap.sh](https://roadmap.sh)** one by one
 
 ---
 
-## 🚀 Getting Started
+## 🔨 Projects
 
-**Requirements:**
-- Java 11+
+| Project | What it is | Built with |
+|---|---|---|
+| [TaskTrackerCLI](https://github.com/MahiroJV/TaskTrackerCLI) | CLI task manager, no libraries, raw Java | Java, Bash |
 
-```bash
-# Check if you have Java
-java -version
-javac -version
-```
-
-**Clone & compile:**
-```bash
-git clone https://github.com/MahiroJV/TaskTrackerCLI
-cd TaskTrackerCLI
-
-# Compile
-javac -d bin src/package1/*.java
-```
-
-**Install the command globally:**
-```bash
-chmod +x taskcli
-sudo mv taskcli /usr/local/bin/taskcli
-```
-
-Now you can type `taskcli` from anywhere. ✅
+> More coming as I work through roadmap.sh 👀
 
 ---
 
-## 📖 Commands
+## 🧰 Tools I use
 
-| Command | What it does |
-|---|---|
-| `taskcli add "description"` | Add a new task |
-| `taskcli update <id> "description"` | Update a task |
-| `taskcli delete <id>` | Delete a task |
-| `taskcli mark-in-progress <id>` | Mark as in-progress |
-| `taskcli mark-done <id>` | Mark as done |
-| `taskcli list` | List all tasks |
-| `taskcli list todo` | List todo tasks only |
-| `taskcli list in-progress` | List in-progress tasks only |
-| `taskcli list done` | List done tasks only |
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🗂️ Project Structure
+## 📍 Right now
 
-```
-TaskTrackerCLI/
-├── src/
-│   └── package1/
-│       ├── taskCli.java       ← Entry point, reads your commands
-│       ├── task.java          ← Task model (id, description, status...)
-│       ├── taskManager.java   ← Business logic (add, delete, list...)
-│       └── jsonStore.java     ← Reads & writes tasks.json manually
-├── bin/                       ← Compiled .class files
-├── tasks.json                 ← Auto-created on first use
-└── taskcli                    ← Shell wrapper script
-```
+- 🌱 Getting comfortable with Java
+- 🔭 Exploring DevOps & CI/CD tooling
+- 📦 Building projects from [roadmap.sh](https://roadmap.sh) for fun
 
 ---
 
-## 🛠️ How it works
-
-- Tasks are stored in a **`tasks.json`** file — created automatically when you add your first task
-- JSON is parsed **manually** with no external libraries (yes, really)
-- Each task has: `id`, `description`, `status`, `createdAt`, `updatedAt`
-
-```json
-[
-  {
-    "id": 1,
-    "description": "Buy groceries",
-    "status": "todo",
-    "createdAt": "2024-03-17T10:00:00",
-    "updatedAt": "2024-03-17T10:00:00"
-  }
-]
-```
-
----
-
-## 🗺️ Part of my roadmap.sh journey
-
-This project is from [roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker).
-I'm working through projects on roadmap.sh to sharpen my skills and have fun doing it.
-
-Check out my other projects → [github.com/MahiroJV](https://github.com/MahiroJV)
-
----
-
-## 📜 License
-
-Do whatever you want with it. It's just for fun anyway. 🙂
+*This whole GitHub is just me experimenting. Nothing is serious. Everything is intentional.* 😄
