@@ -43,4 +43,5 @@ I'm not here to build the next startup — I'm here to have fun, learn stuff, an
 
 ---
 
-*This whole GitHub is just me experimenting. Nothing is serious. Everything is intentional.* 😄
+*This whole GitHub is just me experimenting. Nothing is serious. Everything is intention
+![](./profile-3d-contrib/profile-night-green.svg)
