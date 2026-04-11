@@ -20,8 +20,8 @@ I'm not here to build the next startup — I'm here to have fun, learn stuff, an
 
 | Project | What it is | Built with |
 |---|---|---|
-| [TaskTrackerCLI](https://github.com/MahiroJV/TaskTrackerCLI) | CLI task manager, no libraries, raw Java | Java, Bash |
-| [Ktop](https://github.com/MahiroJV/ktop)| System Monitor, Rust editon, | Rust,Bash |
+| [TaskTrackerCLI](https://github.com/MahiroJV/TaskTrackerCLI) | CLI task manager, no libraries, raw Java | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white), ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
+| [Ktop](https://github.com/MahiroJV/ktop)| System Monitor, Rust editon, | ![Rust](https://img.shields.io/badge/Rust-orange?style=flat&logo=rust&logoColor=white),![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
 
 > More coming as I work through roadmap.sh 👀
 
@@ -29,9 +29,11 @@ I'm not here to build the next startup — I'm here to have fun, learn stuff, an
 
 ## 🧰 Tools I use
 
+![Rust](https://img.shields.io/badge/Rust-orange?style=flat&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-orange?style=flat&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
