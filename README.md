@@ -21,6 +21,7 @@ I'm not here to build the next startup — I'm here to have fun, learn stuff, an
 | Project | What it is | Built with |
 |---|---|---|
 | [TaskTrackerCLI](https://github.com/MahiroJV/TaskTrackerCLI) | CLI task manager, no libraries, raw Java | Java, Bash |
+| [Ktop](https://github.com/MahiroJV/ktop)| System Monitor, Rust editon, | Rust,Bash |
 
 > More coming as I work through roadmap.sh 👀
 
