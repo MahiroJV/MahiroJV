@@ -21,7 +21,7 @@ I'm not here to build the next startup — I'm here to have fun, learn stuff, an
 | Project | What it is | Built with |
 |---|---|---|
 | [TaskTrackerCLI](https://github.com/MahiroJV/TaskTrackerCLI) | CLI task manager, no libraries, raw Java | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white), ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
-| [Ktop](https://github.com/MahiroJV/ktop)| System Monitor, Rust editon, | ![Rust](https://img.shields.io/badge/Rust-orange?style=flat&logo=rust&logoColor=white),![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
+| [Kctop](https://github.com/MahiroJV/kctop)| System Monitor, Rust editon, | ![Rust](https://img.shields.io/badge/Rust-orange?style=flat&logo=rust&logoColor=white),![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
 
 > More coming as I work through roadmap.sh 👀
 
