@@ -10,6 +10,7 @@ I'm not here to build the next startup — I'm here to have fun, learn stuff, an
 
 - 🐧 **Linux** is my playground
 - ☕ **Learning Java** — building real projects, not just tutorials
+- 🦀 **Learning Rust** - building fan-made projects
 - 🛠️ **Shell scripting** — if I can automate it, I will
 - 🚀 **Curious about DevOps & CI/CD** — pipelines, containers, the whole thing
 - 🗺️ Working through projects on **[roadmap.sh](https://roadmap.sh)** one by one
