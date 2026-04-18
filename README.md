@@ -47,5 +47,7 @@ I'm not here to build the next startup — I'm here to have fun, learn stuff, an
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api?username=MahiroJV&show_icons=true&theme=tokyonight" />
+
 *This whole GitHub is just me experimenting. Nothing is serious. Everything is intention
 ![](./profile-3d-contrib/profile-night-green.svg)
