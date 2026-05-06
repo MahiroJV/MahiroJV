@@ -1,3 +1,10 @@
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0077ff&height=180&section=header&text=Linux%20Fan%20Developer&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=00FF99&center=true&vCenter=true&width=750&lines=Linux+%7C+Rust+%7C+Java+%7C+Spring+Framework;DevOps+%26+CI/CD+%26+GitLab;Building+cool+tools;Linux+enthusiast;Always+learning+new+things" />
+  
+</div>
+
 # Hey, I'm MahiroJV 👋
 
 > Hobby developer who tinkers with Linux, breaks things on purpose, and occasionally fixes them.
@@ -43,11 +50,40 @@ I'm not here to build the next startup — I'm here to have fun, learn stuff, an
 
 - 🌱 Getting comfortable with Java
 - 🔭 Exploring DevOps & CI/CD tooling
-- 📦 Building projects from [roadmap.sh](https://roadmap.sh) for fun
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MahiroJV&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=MahiroJV&show_icons=true&theme=tokyonight" />
+# 📈 Activity Graph
 
-*This whole GitHub is just me experimenting. Nothing is serious. Everything is intention
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=encyrpt&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 Achievement Board
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=encyrpt&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+
+</div>
+
+---
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00ff99&height=150&section=footer" />
+</div>
