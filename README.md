@@ -66,7 +66,6 @@ $ motto
 </div>
 
 ---
-# 📊 GitHub Analytics
 
 # 📊 GitHub Analytics
 
