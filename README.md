@@ -13,6 +13,7 @@
 
 - ☕ **Learning Java** — building real projects, not just tutorials
 - 🦀 **Learning Rust** - building fan-made projects
+- ©️ **Learning C** - Just for fun 
 - 🛠️ **Shell scripting** — if I can automate it, I will
 - 🚀 **Curious about DevOps & CI/CD** — pipelines, containers, the whole thin
 
