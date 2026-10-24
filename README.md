@@ -7,8 +7,6 @@
 </div>
 
 
-> Hobby developer who tinkers with Linux, breaks things on purpose, and occasionally fixes them.
-
 ## 🧪 What I'm about
 
 - ☕ **Learning Java** — building real projects, not just tutorials
@@ -21,17 +19,12 @@
 $ whoami
 MahiroJV
 
-$ os
-Arch Linux
-
 $ languages
 Rust, Java, Bash
 
 $ current_focus
 DevOps & Backend
 
-$ motto
-"Break things. Learn things."
 ```
 
 ---
@@ -43,7 +36,7 @@ $ motto
 | [TaskTrackerCLI](https://github.com/MahiroJV/TaskCLIProject) | CLI task manager, no libraries, raw Java | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white), ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
 | [Kctop](https://github.com/MahiroJV/kctop)| System Monitor, Rust editon, | ![Rust](https://img.shields.io/badge/Rust-orange?style=flat&logo=rust&logoColor=white),![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
 | [Git-tree](https://github.com/MahiroJV/git-tree)| Git repos visual view | ![Rust](https://img.shields.io/badge/Rust-orange?style=flat&logo=rust&logoColor=white),![Dioxus](https://img.shields.io/badge/UI-Dioxus-purple?logo=rust)
-> More coming as I work through roadmap.sh 👀
+>Just writing for learn new 
 
 ---
 
@@ -58,15 +51,6 @@ $ motto
 
 ---
 
-# 🏆 Achievement Board
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MahiroJV&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-
-</div>
-
----
 
 # 📊 GitHub Analytics
 
@@ -91,16 +75,6 @@ $ motto
 </table>
 
 ---
-
-# 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahiroJV&theme=github-compact&hide_border=true&area=true" />
-</div>
-
----
-
-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00ff99&height=150&section=footer" width="100%" />
