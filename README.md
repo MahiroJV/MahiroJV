@@ -75,7 +75,11 @@ DevOps & Backend
 </table>
 
 ---
+<img src="koi/koi.gif" width="256" alt="My koi">
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00ff99&height=150&section=footer" width="100%" />
 </div>
+
+
